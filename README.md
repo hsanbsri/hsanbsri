@@ -27,6 +27,5 @@ Javascript, HTML, CSS, Goole Cloud,Blockchain
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hasan-basri-8b120b180/)
 
 
-![](https://github-readme-stats.vercel.app/api?username=hsanbsri&theme=nord&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hsanbsri&theme=nord&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hsanbsri&theme=nord&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
