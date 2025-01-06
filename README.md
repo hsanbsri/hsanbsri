@@ -1,13 +1,8 @@
 
 # Hi, I'm Hasan! 👋
 
-
-## 🚀 About Me
-I'm a web3 Developer at Dikti
-
-
 ## 🛠 Skills
-Javascript, HTML, CSS, Goole Cloud,Blockchain
+Python, Javascript, HTML, CSS, Goole Cloud,Blockchain
 
 
 ## Other Common Github Profile Sections
